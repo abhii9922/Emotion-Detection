@@ -1,0 +1,2 @@
+# Emotion-Detection
+This system aims at providing the teachers with a cheaper, additional hardware free and accurate emotion-based feedback system. This project will be of great advantage to teachers to redefine the teaching plan or can repeat any lecture if emotion is dull. This will help students to achieve good marks. We build and ERP based system but android app can be designed for ease of access.
